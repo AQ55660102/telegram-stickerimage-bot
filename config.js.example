@@ -1,7 +1,7 @@
 module.exports = {
     // telegram bot token and username, get from @BotFather
-    token: '1234567890:YOURTOKENHERE',
-    username: 'MyAwesomeStickerBot',
+    token: '7283367148:AAFnbcTMJcKd6bvXASWQaXQPR5f-AIj8BUg',
+    username: 'Group',
 
     // imagemagick convert path, defaults to 'convert'
     im_convert_path: 'convert',
